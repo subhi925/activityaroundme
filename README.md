@@ -80,4 +80,3 @@ Add a `LICENSE` file if you want to publish under a specific license (MIT is com
 
 ---
 
-If you want, I can add badges, a demo link, or tailor the README text to include screenshots and usage examples. ✅
