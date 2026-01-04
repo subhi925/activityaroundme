@@ -1,0 +1,5 @@
+.mynav:hover{
+    translate: 0 4px;
+    transition-duration: 300ms;
+  
+}
